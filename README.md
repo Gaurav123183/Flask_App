@@ -1,0 +1,1 @@
+A simple Flask web app that uses OpenAI’s generative AI to create text, generate images from prompts, and convert text to speech. It provides an easy-to-use interface for experimenting with multimodal AI features — combining text, visuals, and audio generation in one place.
